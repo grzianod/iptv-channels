@@ -1,70 +1,70 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
-#EXTINF:-1 group-title="Live" tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-1-it.png?raw=true", Rai 1
+#EXTINF:-1 group-title="Live" tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-1-it.png", Rai 1
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Live" tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-2-it.png?raw=true", Rai 2
+#EXTINF:-1 group-title="Live" tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-2-it.png", Rai 2
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Live" tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-3-it.png?raw=true", Rai 3
+#EXTINF:-1 group-title="Live" tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-3-it.png", Rai 3
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rete4-it.png?raw=true", Rete 4
+#EXTINF:-1 group-title="Live" tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rete4-it.png", Rete 4
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale5-it.png?raw=true", Canale 5
+#EXTINF:-1 group-title="Live" tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/canale5-it.png", Canale 5
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/italia1-it.png?raw=true", Italia 1
+#EXTINF:-1 group-title="Live" tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/italia1-it.png", Italia 1
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/la7-it.png?raw=true", LA7
+#EXTINF:-1 group-title="Live" tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/la7-it.png", LA7
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tv8-it.png?raw=true", TV8
+#EXTINF:-1 group-title="Live" tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/tv8-it.png", TV8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Live" tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/nove-it.png?raw=true", NOVE
+#EXTINF:-1 group-title="Live" tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/nove-it.png", NOVE
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="20" tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/20-it.png?raw=true", 20Mediaset
+#EXTINF:-1 group-title="Live" tvg-chno="20" tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/20-it.png", 20Mediaset
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-4-it.png?raw=true", Rai 4
+#EXTINF:-1 group-title="Live" tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-4-it.png", Rai 4
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/iris-it.png?raw=true", Iris
+#EXTINF:-1 group-title="Live" tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/iris-it.png", Iris
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-5-it.png?raw=true", Rai 5
+#EXTINF:-1 group-title="Live" tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-5-it.png", Rai 5
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-movie-it.png?raw=true", Rai Movie
+#EXTINF:-1 group-title="Live" tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-movie-it.png", Rai Movie
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-premium-it.png?raw=true", Rai Premium
+#EXTINF:-1 group-title="Live" tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-premium-it.png", Rai Premium
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest_hd.mpd
 
-#EXTINF:-1 group-title="Live" tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cielo-it.png?raw=true", Cielo
+#EXTINF:-1 group-title="Live" tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/cielo-it.png", Cielo
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 group-title="Live" tvg-chno="27" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/twenty-seven-it.png?raw=true", 27Twentyseven
+#EXTINF:-1 group-title="Live" tvg-chno="27" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/twenty-seven-it.png", 27Twentyseven
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
@@ -76,11 +76,11 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="30" tvg-id="La.5.it" tvg-name="La5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/la5-it.png?raw=true", La5
+#EXTINF:-1 group-title="Live" tvg-chno="30" tvg-id="La.5.it" tvg-name="La5" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/la5-it.png", La5
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/real-time-it.png?raw=true", Real Time
+#EXTINF:-1 group-title="Live" tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/real-time-it.png", Real Time
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
@@ -92,11 +92,11 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cine34-it.png?raw=true", Cine34
+#EXTINF:-1 group-title="Live" tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/cine34-it.png", Cine34
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/focus-it.png?raw=true", FOCUS
+#EXTINF:-1 group-title="Live" tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/focus-it.png", FOCUS
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
@@ -108,11 +108,11 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/giallo-it.png?raw=true", Giallo
+#EXTINF:-1 group-title="Live" tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/giallo-it.png", Giallo
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/top-crime-it.png?raw=true", Top Crime
+#EXTINF:-1 group-title="Live" tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/top-crime-it.png", Top Crime
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
@@ -124,11 +124,11 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-gulp-it.png?raw=true", Rai Gulp
+#EXTINF:-1 group-title="Live" tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-gulp-it.png", Rai Gulp
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-yoyo-it.png?raw=true", Rai Yoyo
+#EXTINF:-1 group-title="Live" tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-yoyo-it.png", Rai Yoyo
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
@@ -148,11 +148,11 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-news-24-it.png?raw=true", Rai News 24
+#EXTINF:-1 group-title="Live" tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-news-24-it.png", Rai News 24
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/italia2-it.png?raw=true", Italia 2
+#EXTINF:-1 group-title="Live" tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/italia2-it.png", Italia 2
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
@@ -160,7 +160,7 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 group-title="Live" tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tgcom24-it.png?raw=true", TGCOM 24
+#EXTINF:-1 group-title="Live" tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/tgcom24-it.png", TGCOM 24
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
@@ -172,11 +172,11 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-storia-it.png?raw=true", Rai Storia
+#EXTINF:-1 group-title="Live" tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-storia-it.png", Rai Storia
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 
-#EXTINF:-1 group-title="Live" tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/mediaset-extra-it.png?raw=true", Mediaset Extra
+#EXTINF:-1 group-title="Live" tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/mediaset-extra-it.png", Mediaset Extra
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
@@ -184,11 +184,11 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-scuola-it.png?raw=true", Rai Scuola
+#EXTINF:-1 group-title="Live" tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-scuola-it.png", Rai Scuola
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-sport-it.png?raw=true", Rai Sport
+#EXTINF:-1 group-title="Live" tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-sport-it.png", Rai Sport
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 
