@@ -50,7 +50,7 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-5-it.png?raw=true",Rai 5
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/index.m3u8
+https://streamcdng2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1772451854&tof=86400&tk2=240f7a6e93b102d8900167c88fea146c2bf3436d60bf80ff09ef5ce46927ee05
 
 #EXTINF:-1 group-title="Live" tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-movie-it.png?raw=true",Rai Movie
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
