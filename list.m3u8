@@ -30,7 +30,7 @@ https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Live" tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/tv8-it.png?raw=true",TV8
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://uvotv.zappr.stream/269.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/nove-it.png?raw=true",NOVE
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
