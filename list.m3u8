@@ -158,7 +158,7 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-chno="50" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png",Sky TG24
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+https://uvotv.zappr.stream/293.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/tgcom24-it.png?raw=true",TGCOM 24
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
