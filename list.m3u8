@@ -58,7 +58,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 
 #EXTINF:-1 group-title="Live" tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/rai-premium-it.png?raw=true",Rai Premium
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
-https://www.raiplay.it/dirette/raipremium?autoplay
+https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://github.com/grzianod/iptv-channels/blob/main/logos/cielo-it.png?raw=true",Cielo
 #EXTVLCOPT:http-user-agent=AppleTV6,2/11.1
